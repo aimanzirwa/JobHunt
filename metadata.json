@@ -1,0 +1,6 @@
+{
+  "name": "Personalized CV Builder & Job Match",
+  "description": "Tailor job-specific CVs, pre-fill friend profiles, match vacancies by skills and location, and export print-ready PDF resumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
